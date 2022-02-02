@@ -1,6 +1,6 @@
 # Self-hosted Docker Registry
 
-1) Install Docker
+1) Install Docker: https://docs.docker.com/engine/install/debian/
 
 2) Run `mkdir /var/lib/registry`
 
